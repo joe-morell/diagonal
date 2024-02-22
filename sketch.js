@@ -4,7 +4,7 @@ function setup() {
     y = 100
     dx = 1
     dy = 1
-    
+    size = 0
   }
   
   function draw() {
